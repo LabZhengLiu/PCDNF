@@ -28,6 +28,20 @@ cloud denoising and normal filtering.
 </p>
 
 ## :wrench: Usage
+## Environment
+* Python 3.6
+* PyTorch 1.5.0
+* CUDA and CuDNN (CUDA 10.1 & CuDNN 7.5)
+* TensorboardX (2.0) if logging training info.
+## Install required python packages:
+``` bash
+pip install numpy
+pip install scipy
+pip install plyfile
+pip install scikit-learn
+pip install tensorboardX (only for training stage)
+pip install torch==1.5.0+cu101 torchvision==0.6.0+cu101 -f https://download.pytorch.org/whl/torch_stable.html
+```
 ### Test the trained model:
 Set the parameters such as file path, batchsize, iteration numbers, etc in **testN.py** and then run it.
 We provide our pretrained model.
@@ -36,4 +50,5 @@ We provide our pretrained model.
 Set the parameters such as file path, batchsize, iteration numbers, etc in **train_NetworkN1.py** and then run it.
 Our training set is from [PointFilter](https://github.com/dongbo-BUAA-VR/Pointfilter) and the normal information is computed by PCA.
 
-
+## :link: Citation
+If you find this work helpful please consider citing it :
