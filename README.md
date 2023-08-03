@@ -34,6 +34,6 @@ We provide our pretrained model.
 
 ### Train the model:
 Set the parameters such as file path, batchsize, iteration numbers, etc in **train_NetworkN1.py** and then run it.
-Our training set is from [PointFilter](https://github.com/dongbo-BUAA-VR/Pointfilter)and the normal information is computed by PCA.
+Our training set is from [PointFilter](https://github.com/dongbo-BUAA-VR/Pointfilter) and the normal information is computed by PCA.
 
 
