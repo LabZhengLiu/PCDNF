@@ -2,6 +2,10 @@
 
 :zap:`Status Update: [2023/07/02] This paper has been accepted by the IEEE Transactions on Visualization and Computer Graphics (TVCG).`
 
+<p align='center'>
+<img src='image/figure2.png' width='850'/>
+</p>
+
  by [Zheng Liu](https://labzhengliu.github.io/), Yaowu Zhao, Sijing Zhan, [Yuanyuan Liu](https://cvlab-liuyuanyuan.github.io/), [Renjie Chen](http://staff.ustc.edu.cn/~renjiec/) and Ying He
 
  ## :bulb: Introduction
