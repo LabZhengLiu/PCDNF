@@ -27,4 +27,6 @@ cloud denoising and normal filtering.
 <img src='image/figure1.png'/>
 </p>
 
+## :wrench: Usage
+
 The code will be released soon.
