@@ -52,3 +52,13 @@ Our training set is from [PointFilter](https://github.com/dongbo-BUAA-VR/Pointfi
 
 ## :link: Citation
 If you find this work helpful please consider citing it :
+```
+@ARTICLE{10173632,
+  author={Liu, Zheng and Zhao, Yaowu and Zhan, Sijing and Liu, Yuanyuan and Chen, Renjie and He, Ying},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={PCDNF: Revisiting Learning-based Point Cloud Denoising via Joint Normal Filtering}, 
+  year={2023},
+  doi={10.1109/TVCG.2023.3292464}
+}
+```
+
