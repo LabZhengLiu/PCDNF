@@ -24,7 +24,7 @@ evaluations, comparisons, and ablation studies demonstrate that the proposed met
 cloud denoising and normal filtering.
 
 <p align='center'>
-<img src='images/figure1.png'/>
+<img src='image/figure1.png'/>
 </p>
 
 The code will be released soon.
