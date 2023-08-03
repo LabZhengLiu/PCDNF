@@ -19,9 +19,7 @@ hand, to improve noise removal performance, we design a shape-aware selector to 
 the specific point by comprehensively considering the learned point and normal features and geometry priors. On the other hand, point
 features are more suitable for describing geometric details, and normal features are more conducive for representing geometric
 structures (e.g., sharp edges and corners). Combining point and normal features allows us to overcome their weaknesses. Thus, we
-design a feature refinement module to fuse point and normal features for better recovering geometric information. Extensive
-evaluations, comparisons, and ablation studies demonstrate that the proposed method outperforms state-of-the-arts for both point
-cloud denoising and normal filtering.
+design a feature refinement module to fuse point and normal features for better recovering geometric information.
 
 <p align='center'>
 <img src='image/figure1.png'/>
@@ -51,7 +49,7 @@ Set the parameters such as file path, batchsize, iteration numbers, etc in **tra
 Our training set is from [PointFilter](https://github.com/dongbo-BUAA-VR/Pointfilter) and the normal information is computed by PCA.
 
 ## :link: Citation
-If you find this work helpful please consider citing it :
+If you find this work helpful please consider citing our [paper](https://ieeexplore.ieee.org/document/10173632) :
 ```
 @ARTICLE{10173632,
   author={Liu, Zheng and Zhao, Yaowu and Zhan, Sijing and Liu, Yuanyuan and Chen, Renjie and He, Ying},
