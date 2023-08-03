@@ -23,4 +23,8 @@ design a feature refinement module to fuse point and normal features for better 
 evaluations, comparisons, and ablation studies demonstrate that the proposed method outperforms state-of-the-arts for both point
 cloud denoising and normal filtering.
 
+<p align='center'>
+<img src='images/figure1.png'/>
+</p>
+
 The code will be released soon.
