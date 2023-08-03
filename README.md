@@ -28,5 +28,12 @@ cloud denoising and normal filtering.
 </p>
 
 ## :wrench: Usage
+### Test the trained model:
+Set the parameters such as file path, batchsize, iteration numbers, etc in **testN.py** and then run it.
+We provide our pretrained model.
 
-The code will be released soon.
+### Train the model:
+Set the parameters such as file path, batchsize, iteration numbers, etc in **train_NetworkN1.py** and then run it.
+Our training set is from [PointFilter]([https://labzhengliu.github.io/](https://github.com/dongbo-BUAA-VR/Pointfilter)https://github.com/dongbo-BUAA-VR/Pointfilter) and the normal information is computed by PCA.
+
+
