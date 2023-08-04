@@ -6,7 +6,7 @@
 <img src='image/figure2.png'/>
 </p>
 
- by [Zheng Liu](https://labzhengliu.github.io/), Yaowu Zhao, Sijing Zhan, [Yuanyuan Liu](https://cvlab-liuyuanyuan.github.io/), [Renjie Chen](http://staff.ustc.edu.cn/~renjiec/) and Ying He
+ by [Zheng Liu](https://labzhengliu.github.io/), Yaowu Zhao, Sijing Zhan, [Yuanyuan Liu](https://cvlab-liuyuanyuan.github.io/), [Renjie Chen](http://staff.ustc.edu.cn/~renjiec/) and [Ying He](https://personal.ntu.edu.sg/yhe/)
 
  ## :bulb: Introduction
 Recovering high quality surfaces from noisy point clouds, known as point cloud denoising, is a fundamental yet challenging
